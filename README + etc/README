@@ -1,0 +1,29 @@
+# Command Line Logo Generator
+This is a command line interface for generating a logo in SVG format. The user is prompted for input to customize the logo, including the text, text color, shape, and shape color.
+
+## Installation
+To use this program, you need to have Node.js installed on your computer. If you don't have Node.js, you can download it from the official website: https://nodejs.org/en/download/
+
+After installing Node.js, you can clone this repository and navigate to the project directory in your terminal. Then, run the following command to install the dependencies:    npm install
+
+
+## Usage
+To run the program, use the following command:  node index.js
+
+You will be prompted to enter the following information:
+
+-Text (up to 3 characters)
+
+-Text color (color keyword or hexadecimal number)
+
+-Shape (circle, triangle, or square)
+
+-Shape color (color keyword or hexadecimal number)
+
+-After you have entered all the information, an SVG file named logo.svg will be generated in the project directory. You can open this file in a web browser to view the logo.
+
+## License
+This program is licensed under the MIT License. You can read the full text of the license in the LICENSE file.
+
+## Credits
+This program was created by Bright_Verdant. If you have any questions or suggestions, you can contact me at raymond.stackvanasse@gmail.com.
