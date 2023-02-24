@@ -1,6 +1,0 @@
-
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
-      <circle cx="150" cy="100" r="50" fill="orange"/>
-      <text x="150" y="125" fill="red" font-size="48" font-weight="bold" text-anchor="middle">txt</text>
-    </svg>
-  
